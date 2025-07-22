@@ -115,6 +115,9 @@ O conjunto de dados fornecido (sintético, inspirado no IBM HR Analytics) conté
 
 ## 📌 Conclusão
 
+A documentação do trabalho desenvolvido está em pdf neste repositório.
 
+### 👩‍💻 Autores
 
-
+Taimara Liz 
+Laiane Ressurreição
