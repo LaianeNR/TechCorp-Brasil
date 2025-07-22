@@ -119,5 +119,5 @@ A documentação do trabalho desenvolvido está em pdf neste repositório.
 
 ### 👩‍💻 Autores
 
-Taimara Liz 
-Laiane Ressurreição
+- Taimara Liz 
+- Laiane Ressurreição
